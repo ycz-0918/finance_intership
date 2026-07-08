@@ -1,0 +1,5 @@
+﻿segment_id,init_source,start,end,months,latest_date,latest_prob_high_state,latest_state,latest_regime_label,state_switches,avg_abs_prob_high_change
+segment_01,sample_quantiles,2005-12-31,2010-11-30,60,2010-11-30,0.0712573502665379,低均值状态,工业增加值低位区制,3,0.06603325533918107
+segment_02,segment_01_params,2010-12-31,2015-11-30,60,2015-11-30,0.008337398942549087,低均值状态,工业增加值低位区制,5,0.11412864171901725
+segment_03,segment_02_params,2015-12-31,2020-11-30,60,2020-11-30,1.0,高均值状态,工业增加值高位区制,2,0.03389830508474576
+segment_04,segment_03_params,2020-12-31,2025-11-30,60,2025-11-30,0.9205798239884653,高均值状态,工业增加值高位区制,0,0.006425094611325215

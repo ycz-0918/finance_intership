@@ -1,0 +1,2 @@
+﻿model_scope,code,name,start,end,nobs,mu_low,mu_high,sigma,sigma_for_filter,p_stay_low,p_switch_low_to_high,p_switch_high_to_low,p_stay_high,init_prob_low,init_prob_high,log_likelihood,filtered_log_likelihood,iterations
+full_sample,M0000545,中国:工业增加值,2005-12-31,2026-03-31,244,-1.9481741024133512,6.3208560234487425,5.410017689271492,4.5985150358807685,0.92,0.07999999999999996,0.1327434087673549,0.8672565912326451,1.0397605761651144e-26,1.0,-782.7368786452,-788.928582960018,30
