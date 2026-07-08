@@ -1,0 +1,2 @@
+﻿filter,latest_state_date,growth_phase,inflation_phase,macro_state,growth_value,inflation_value,growth_turns,inflation_turns
+robust_median_then_3m_ma,2026-05-31,上行,上行,增长上行 / 通胀上行,50.14999999999999,1.2,12,18

@@ -1,0 +1,2 @@
+﻿model_scope,code,name,start,end,nobs,mu_low,mu_high,sigma,sigma_for_filter,p_stay_low,p_switch_low_to_high,p_switch_high_to_low,p_stay_high,init_prob_low,init_prob_high,log_likelihood,filtered_log_likelihood,iterations
+full_sample,M0001227,中国:PPI:当月同比,1997-09-30,2026-05-31,345,-2.205313495855324,3.2213968385961094,2.2153946919673744,1.883085488172268,0.92,0.07999999999999996,0.07999999999999996,0.92,1.0,8.776003767728386e-23,-811.3389760923997,-820.7718525667187,14

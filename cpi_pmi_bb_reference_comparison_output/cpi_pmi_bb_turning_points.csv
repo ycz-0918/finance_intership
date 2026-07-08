@@ -1,0 +1,17 @@
+﻿factor,code,name,threshold,date,type,value,turn
+growth,M0017126,中国:制造业PMI,50.0,2008-04-30,peak,59.2,高点
+growth,M0017126,中国:制造业PMI,50.0,2008-11-30,trough,38.8,低点
+growth,M0017126,中国:制造业PMI,50.0,2009-12-31,peak,56.6,高点
+growth,M0017126,中国:制造业PMI,50.0,2011-11-30,trough,49.0,低点
+growth,M0017126,中国:制造业PMI,50.0,2012-04-30,peak,53.3,高点
+growth,M0017126,中国:制造业PMI,50.0,2016-02-29,trough,49.0,低点
+growth,M0017126,中国:制造业PMI,50.0,2017-09-30,peak,52.4,高点
+growth,M0017126,中国:制造业PMI,50.0,2020-02-29,trough,35.7,低点
+inflation,M0000612,中国:CPI:当月同比,,2006-03-31,trough,0.8,低点
+inflation,M0000612,中国:CPI:当月同比,,2008-02-29,peak,8.7,高点
+inflation,M0000612,中国:CPI:当月同比,,2009-07-31,trough,-1.8,低点
+inflation,M0000612,中国:CPI:当月同比,,2011-07-31,peak,6.451,高点
+inflation,M0000612,中国:CPI:当月同比,,2015-01-31,trough,0.7638,低点
+inflation,M0000612,中国:CPI:当月同比,,2018-02-28,peak,2.9,高点
+inflation,M0000612,中国:CPI:当月同比,,2019-02-28,trough,1.5,低点
+inflation,M0000612,中国:CPI:当月同比,,2020-01-31,peak,5.4,高点

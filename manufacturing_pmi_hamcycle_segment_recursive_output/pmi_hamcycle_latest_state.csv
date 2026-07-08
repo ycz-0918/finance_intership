@@ -1,0 +1,2 @@
+﻿segment_id,init_source,start,end,months,latest_date,latest_prob_high_state,latest_state,latest_growth_regime,state_switches,avg_abs_prob_high_change
+segment_04,segment_03_params,2020-12-31,2025-11-30,60,2025-11-30,5.420977973302344e-05,低均值状态,经济增长偏弱,5,0.09480799342436987

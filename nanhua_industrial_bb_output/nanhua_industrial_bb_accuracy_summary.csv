@@ -1,0 +1,2 @@
+﻿start,end,months,accuracy,balanced_accuracy,up_accuracy,down_accuracy,target_up_months,target_down_months,bb_switches,target_switches,switch_count_gap
+2008-12-31,2020-11-30,144,0.75,0.7374581939799332,0.6923076923076923,0.782608695652174,52,92,8,9,1

@@ -1,0 +1,2 @@
+﻿segment_id,init_source,start,end,months,latest_date,latest_prob_high_state,latest_state,latest_inflation_regime,state_switches,avg_abs_prob_high_change
+segment_08,segment_07_params,2022-12-31,2026-05-31,42,2026-05-31,0.9999317241944425,高通胀状态,通胀偏高,3,0.14240699218735264

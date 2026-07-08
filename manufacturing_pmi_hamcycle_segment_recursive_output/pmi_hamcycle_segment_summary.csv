@@ -1,0 +1,5 @@
+﻿segment_id,init_source,start,end,months,latest_date,latest_prob_high_state,latest_state,latest_growth_regime,state_switches,avg_abs_prob_high_change
+segment_01,sample_quantiles,2005-12-31,2010-11-30,60,2010-11-30,0.9999972710713401,高均值状态,经济增长偏强,4,0.06099105983622925
+segment_02,segment_01_params,2010-12-31,2015-11-30,60,2015-11-30,5.396385346708745e-07,低均值状态,经济增长偏弱,5,0.08725878142491553
+segment_03,segment_02_params,2015-12-31,2020-11-30,60,2020-11-30,0.9686213376598972,高均值状态,经济增长偏强,3,0.06486259129219554
+segment_04,segment_03_params,2020-12-31,2025-11-30,60,2025-11-30,5.420977973302344e-05,低均值状态,经济增长偏弱,5,0.09480799342436987
