@@ -1,0 +1,3 @@
+﻿model,date,growth_prob,inflation_prob,model_quadrant,actual_growth_score,actual_inflation_score,actual_quadrant,consistent_with_actual
+模型A：均值—方差切换,2026-03-31,0.014377344908802357,0.062904248772042,衰退,-0.4132693496374233,-0.36975346114036883,衰退,True
+模型B：切换AR(1)回归,2026-03-31,0.12357459424850206,0.014102905400451709,衰退,-0.4132693496374233,-0.36975346114036883,衰退,True
